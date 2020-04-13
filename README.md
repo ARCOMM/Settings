@@ -1,2 +1,3 @@
 # Settings
-Cba settings for the server
+This will be for a change log in cba settings primarly
+
