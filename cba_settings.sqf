@@ -748,12 +748,12 @@ acre_sys_core_postmixGlobalVolume = 1;
 acre_sys_core_premixGlobalVolume = 1;
 force acre_sys_core_revealToAI = 1;
 acre_sys_core_spectatorVolume = 1;
-acre_sys_core_terrainLoss = 0.9;
+acre_sys_core_terrainLoss = 1;
 force acre_sys_core_ts3ChannelName = "";
 force acre_sys_core_ts3ChannelPassword = "";
 force acre_sys_core_ts3ChannelSwitch = true;
 force acre_sys_core_unmuteClients = true;
-force acre_sys_signal_signalModel = 1;
+force acre_sys_signal_signalModel = 2;
 
 // ACRE2 UI
 acre_sys_gui_volumeColorScale = [[1,1,0,0.5],[1,0.83,0,0.5],[1,0.65,0,0.5],[1,0.44,0,0.5],[1,0,0,0.5]];
